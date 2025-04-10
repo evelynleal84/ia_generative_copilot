@@ -41,10 +41,11 @@ A pergunta utilizada como prompt foi:
 ## 🖼️ Prints do processo
 
 ### 📥 Input 
-![Input](https://github.com/evelynleal84/nome-do-repositorio/blob/main/inputs/input.txt
+![Input](https://github.com/evelynleal84/ia_generative_copilot/blob/main/inputs/input.txt)
 
 ### 📤 Output (Resultado do reconhecimento de texto)
-![Output](https://github.com/evelynleal84/nome-do-repositorio/blob/main/output/output1.png)
+![Output](https://github.com/evelynleal84/ia_generative_copilot/blob/main/outputs/copilot1.png) 
+![Output](https://github.com/evelynleal84/ia_generative_copilot/blob/main/outputs/copilot2.png) 
 
 > 🔁 Substitua os links acima com os links reais das imagens após fazer upload no GitHub.
 
