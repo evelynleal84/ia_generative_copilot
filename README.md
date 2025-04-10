@@ -1,33 +1,66 @@
-# ia_generative_copilotxplorando os Recursos de IA Generativa com Copilot e OpenAI
-Este projeto demonstra como usar ferramentas de IA generativa para realizar reconhecimento de texto em imagens (OCR).
 
-⚙️ Ferramentas utilizadas
-Microsoft Copilot
+---
 
-OpenAI
+## 🧪 Teste Realizado com Copilot
 
+A pergunta utilizada como prompt foi:
 
-📁 Estrutura
-inputs/: imagens com textos
+> **"Quais são os 3 prós e contras de se viajar no inverno em Gramado?"**
 
-output/: arquivos com os textos extraídos
+### ✅ Resposta gerada por Copilot:
 
-📝 Etapas realizadas
-Escolha das imagens de teste
+**Prós:**
+1. Cenário encantador com neve e decoração típica de inverno.  
+2. Gastronomia aquecida, com fondues e vinhos.  
+3. Clima romântico e atrativo para casais.  
 
-Processamento com OCR usando IA
+**Contras:**
+1. Alta temporada, com preços mais elevados.  
+2. Grande fluxo de turistas e locais lotados.  
+3. Temperaturas muito baixas podem ser desconfortáveis.  
 
-Salvamento dos resultados
+---
 
-Análise dos textos reconhecidos
+## ✨ Insights
 
-🔍 Exemplos
-Input:
+- O Copilot foi capaz de gerar uma resposta estruturada, coerente e relevante ao tema proposto.
+- É possível usar essa abordagem para gerar conteúdo inicial de blogs, posts de redes sociais ou mesmo ideias para planejamento de viagem.
+- A IA é eficiente em criar listas, comparações e respostas organizadas com base em prompts simples.
 
-Output:
+---
 
-Texto reconhecido:
-"Quais são os 3 pros e contras de se viajar no inverno em Gramado?."
-💡 Insights e Possibilidades
-A IA pode reconhecer textos com alta precisão, mesmo em imagens desfocadas.
+## 🛠️ Tecnologias Utilizadas
 
+- GitHub Copilot  
+- OpenAI Codex  
+- Markdown  
+- Reconhecimento de texto (OCR com suporte externo, opcional)  
+
+---
+
+## 🖼️ Prints do processo
+
+### 📥 Input 
+![Input](https://github.com/evelynleal84/nome-do-repositorio/blob/main/inputs/input.txt
+
+### 📤 Output (Resultado do reconhecimento de texto)
+![Output](https://github.com/evelynleal84/nome-do-repositorio/blob/main/output/output1.png)
+
+> 🔁 Substitua os links acima com os links reais das imagens após fazer upload no GitHub.
+
+---
+
+## 💡 Possibilidades de Uso
+
+- Assistentes virtuais com suporte de IA generativa.  
+- Geração de conteúdo automatizado.  
+- Auxílio em brainstorm e planejamento de ideias.  
+- Automatização de respostas frequentes.  
+
+---
+
+## 👩‍💻 Autora
+
+[Evelyn Leal](https://github.com/evelynleal84)
+
+---
